@@ -1,0 +1,23 @@
+#contenedor1 {
+  display: flex;
+  background-color: #000;
+  height: 300px;
+  color: white;
+  font-size: 2rem;
+}
+
+#elemento1 {
+  order: 2;
+  background-color: #0078A6;
+}
+
+#elemento2 {
+  order: 1;
+  background-color: #0084B6;
+}
+
+#elemento3 {
+  order: 0;
+  background-color: #008CC1;
+}
+

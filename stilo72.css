@@ -1,0 +1,37 @@
+#contenedor1 {
+  display: flex;
+  background-color: #000;
+  height: 300px;
+  color: white;
+  font-size: 2rem;
+}
+
+#elemento1 {
+  align-self: auto;
+  background-color: #0078A6;
+}
+
+#elemento2 {
+  align-self: flex-start;
+  background-color: #0084B6;
+}
+
+#elemento3 {
+  align-self: flex-end;
+  background-color: #008CC1;
+}
+
+#elemento4 {
+  align-self: center;
+  background-color: #0078A6;
+}
+
+#elemento5 {
+  align-self: stretch;
+  background-color: #0084B6;
+}
+
+#elemento6 {
+  align-self: baseline;
+  background-color: #008CC1;
+}
